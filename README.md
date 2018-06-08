@@ -1,10 +1,18 @@
-<details>
-<summary>  <b> Word Translation </b> </summary>
+<details> <summary>  <b> Machine Translation </b> </summary>
+1. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+   * Code:
+   * Slide: [Link](http://www.petrovi.de/data/acl11slides.pdf)
+  
+  
+</details>
+
+
+<details> <summary>  <b> Word Translation </b> </summary>
 
 1. [Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087)
    * Code: [github](https://github.com/facebookresearch/MUSE)
    * Blog Post: [Link](http://ruotianluo.github.io/2017/10/19/word-translation/)
-   * 
+   
 2. [Revisiting Semi-Supervised Learning with Graph Embeddings](https://arxiv.org/pdf/1603.08861.pdf)
    * Code: [github](https://github.com/kimiyoung/planetoid)
    * Blog Post:
@@ -30,8 +38,7 @@
 
 
 <!---
-<details>
-  <summary>Click to expand</summary>
+<details> <summary>  <b> Word Translation </b> </summary>
   whatever
 </details>
 -->
