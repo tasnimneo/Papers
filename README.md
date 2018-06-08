@@ -1,5 +1,6 @@
 <details>
 <summary>  <b> Word Translation </b> </summary>
+
 1. [Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087)
    * Code: [github](https://github.com/facebookresearch/MUSE)
    * Blog Post: [Link](http://ruotianluo.github.io/2017/10/19/word-translation/)
@@ -24,6 +25,7 @@
    * Code
 7. [Bilingual Word Representations with Monolingual Quality in Mind] (https://nlp.stanford.edu/~lmthang/data/papers/naacl15_bivec.pdf)
    * Code: [github](https://github.com/lmthang/bivec)
+   
 </details>
 
 
