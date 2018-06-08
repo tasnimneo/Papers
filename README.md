@@ -1,9 +1,21 @@
 <details> <summary>  <b> Machine Translation </b> </summary>
-1. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+
+1. [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
    * Code:
-   * Slide: [Link](http://www.petrovi.de/data/acl11slides.pdf)
-  
-  
+   * Slide: [Link](https://drive.google.com/file/d/1W2BaUNc5IqaDypNiXcb0MweOtCetUqZm/view)
+   
+2. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
+   * Code:
+   * Slide: [Link](https://drive.google.com/file/d/1RYUV3YmPrVoRTujaJ0kt6jyD6-4a8Zie/view)
+   
+3. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+   * Code:
+   * Slide: [Link](https://drive.google.com/file/d/1niMR8LX77DnP_iPzjNRauOdz1wjd_eXp/view)
+   
+4. [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
+   * Code:
+   * Slide: [Link](https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/view)
+   
 </details>
 
 
