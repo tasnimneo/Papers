@@ -23,3 +23,9 @@
    * Code
 7. [Bilingual Word Representations with Monolingual Quality in Mind] (https://nlp.stanford.edu/~lmthang/data/papers/naacl15_bivec.pdf)
    * Code: [github](https://github.com/lmthang/bivec)
+
+
+<details>
+  <summary>Click to expand</summary>
+  whatever
+</details>
