@@ -50,9 +50,26 @@
 
 <details> <summary>  <b> GAN </b> </summary>
 
-1.
+**Adversarial Networks**
 
+1. [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+   * Code: [github]()
+   * Blog Post: [Link]()
+   
+**Domain Adaptation**
+[Shafiq Joty's Slide](https://drive.google.com/open?id=1yZyn7dYYWQcrikgKoPeQJj9rDVtIsrne)
 
+1. [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf)
+   * Code: [github](https://github.com/pumpikano/tf-dann)
+   * Blog Post: [Link](http://www.shortscience.org/paper?bibtexKey=journals/jmlr/GaninUAGLLML16#leopaillier)
+   
+2. [Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464)
+   * Code: [github]()
+   * Blog Post: [Link]()
+   
+3. [Associative Domain Adaptation](https://arxiv.org/pdf/1708.00938)
+   * Code: [github]()
+   * Blog Post: [Link](https://medium.com/@2017csm1006/associative-domain-adaptation-829d4326f74d)
 
 </details>
 
