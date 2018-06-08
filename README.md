@@ -48,6 +48,14 @@
    
 </details>
 
+<details> <summary>  <b> GAN </b> </summary>
+
+1.
+
+
+
+</details>
+
 
 <!---
 <details> <summary>  <b> Word Translation </b> </summary>
