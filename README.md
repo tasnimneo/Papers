@@ -1,8 +1,8 @@
 ## Word Translation
 1. [Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087)
-       * Code: [github](https://github.com/facebookresearch/MUSE)
-       * Blog Post: [Link](http://ruotianluo.github.io/2017/10/19/word-translation/)
-⋅⋅* 
+   * Code: [github](https://github.com/facebookresearch/MUSE)
+   * Blog Post: [Link](http://ruotianluo.github.io/2017/10/19/word-translation/)
+   * 
 2. [Revisiting Semi-Supervised Learning with Graph Embeddings](https://arxiv.org/pdf/1603.08861.pdf)
 ⋅⋅* Blog Post:
 ..* Code: [github](https://github.com/kimiyoung/planetoid)
