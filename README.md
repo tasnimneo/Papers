@@ -26,7 +26,10 @@
    * Code: [github](https://github.com/lmthang/bivec)
 </details>
 
+
+<!---
 <details>
   <summary>Click to expand</summary>
   whatever
 </details>
+-->
