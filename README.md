@@ -13,9 +13,9 @@
    * Author's slide: [Link](http://www.petrovi.de/data/acl11slides.pdf)
    * Code: 
 5. [Token and Type Constraints for Cross-Lingual Part-of-Speech Tagging](http://www.petrovi.de/data/tacl13.pdf)
-  * Author's slide: [Link](http://www.petrovi.de/data/tacl13slides.pdf)
-  * Code
+   * Author's slide: [Link](http://www.petrovi.de/data/tacl13slides.pdf)
+   * Code
 6. [Deep Learning via Semi-Supervised Embedding](http://www.thespermwhale.com/jaseweston/papers/deep_embed.pdf)
-  *
+   *
 7. [Bilingual Word Representations with Monolingual Quality in Mind (https://nlp.stanford.edu/~lmthang/data/papers/naacl15_bivec.pdf)
-  * Code: [github](https://github.com/lmthang/bivec)
+   * Code: [github](https://github.com/lmthang/bivec)
