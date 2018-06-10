@@ -27,7 +27,7 @@
    
 2. [Revisiting Semi-Supervised Learning with Graph Embeddings](https://arxiv.org/pdf/1603.08861.pdf)
    * Code: [github](https://github.com/kimiyoung/planetoid)
-   * Blog Post:
+   * Blog Post: [Link](https://shagunsodhani.in/papers-I-read/Revisiting-Semi-Supervised-Learning-with-Graph-Embeddings)
    
 3. [A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings](https://arxiv.org/abs/1805.06297)
    * Code: [github](https://github.com/artetxem/vecmap)
