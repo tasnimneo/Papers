@@ -48,8 +48,8 @@
    
 **Supervised Word Translation**
 1. [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/abs/1309.4168)
-  * Code
-  * [My notes](https://github.com/tasnimneo/Papers/blob/master/word_translation/Exploiting%20Similarities%20among%20Languages%20for%20Machine%20Translation.md)
+    * Code
+    * [My notes](https://github.com/tasnimneo/Papers/blob/master/word_translation/Exploiting%20Similarities%20among%20Languages%20for%20Machine%20Translation.md)
    
 </details>
 
