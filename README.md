@@ -46,6 +46,11 @@
 7. [Bilingual Word Representations with Monolingual Quality in Mind](https://nlp.stanford.edu/~lmthang/data/papers/naacl15_bivec.pdf)
    * Code: [github](https://github.com/lmthang/bivec)
    
+**Supervised Word Translation**
+1. [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/abs/1309.4168)
+  * Code
+  * [My notes](https://github.com/tasnimneo/Papers/blob/master/word_translation/Exploiting%20Similarities%20among%20Languages%20for%20Machine%20Translation.md)
+   
 </details>
 
 <details> <summary>  <b> GAN </b> </summary>
